@@ -63,3 +63,4 @@ The `Drupal Console`_ command-line tool.
    checkout/index
    payments/index
    recipes/index
+
